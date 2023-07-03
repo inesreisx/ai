@@ -1,2 +1,2 @@
-# made-with-ai
+# Made with AI.
 Webpages made with AI.
